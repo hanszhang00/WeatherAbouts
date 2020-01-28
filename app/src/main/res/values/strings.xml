@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">UW CAMPUS APP</string>
+
+    <string name="text_headphone">Headphone Snapshot</string>
+    <string name="text_weather">CAMPUS WEATHER!</string>
+    <string name="text_activity">User Activity Snapshot</string>
+    <string name="text_location">Location Snapshot</string>
+
+
+    <string name="text_cse_fence">Are you at CSE?</string>
+    <string name="text_hub_fence">Are you at HUB?</string>
+    <string name="text_kne_fence">Are you at KNE?</string>
+    <string name="text_sav_fence">Are you at SAV?</string>
+    <string name="text_fsh_fence">Are you at FSH?</string>
+
+    <string name="text_headphones_plugged_in">Looks like your headphones are plugged in!</string>
+    <string name="text_headphones_unplugged">Looks like your headphones are unplugged!</string>
+
+    <string name="text_at_CSE">Looks like you\'re at CSE!</string>
+    <string name="text_not_at_CSE">You\'re not at CSE</string>
+    <string name="text_entering_CSE">Hello, you\'re now entering CSE</string>
+    <string name="text_exiting_CSE">Goodbye, you\'re now exiting CSE</string>
+
+    <string name="text_at_HUB">Looks like you\'re at HUB!</string>
+    <string name="text_not_at_HUB">You\'re not at HUB</string>
+    <string name="text_entering_HUB">Hello, you\'re now entering HUB</string>
+    <string name="text_exiting_HUB">Goodbye, you\'re now exiting HUB</string>
+
+    <string name="text_at_KNE">Looks like you\'re at KNE!</string>
+    <string name="text_not_at_KNE">You\'re not at KNE</string>
+    <string name="text_entering_KNE">Hello, you\'re now entering KNE</string>
+    <string name="text_exiting_KNE">Goodbye, you\'re now exiting KNE</string>
+
+    <string name="text_at_SAV">Looks like you\'re at SAV!</string>
+    <string name="text_not_at_SAV">You\'re not at SAV</string>
+    <string name="text_entering_SAV">Hello, you\'re now entering SAV</string>
+    <string name="text_exiting_SAV">Goodbye, you\'re now exiting SAV</string>
+
+    <string name="text_at_FSH">Looks like you\'re at FSH!</string>
+    <string name="text_not_at_FSH">You\'re not at FSH</string>
+    <string name="text_entering_FSH">Hello, you\'re now entering FSH</string>
+    <string name="text_exiting_FSH">Goodbye, you\'re now exiting FSH</string>
+
+    <string name="text_during_walking">Looks like you\'re walking!</string>
+    <string name="text_start_walking">You\'re starting to walk</string>
+    <string name="text_stop_walking">You\'re coming to a halt</string>
+    <string name="text_still">You\'ve stopped walking</string>
+
+
+    <string name="activity_start_format">Activity Start: %s</string>
+    <string name="activity_elapsed_format">Elapsed Time: %s</string>
+    <string name="activity_most_probable_format">Most Probable Activity: %s . Confidence: %d</string>
+    <string name="activity_confidence_format">Confidence User is Running: %.2f</string>
+
+    <string name="location_coordinate_format">Coordinates: %s</string>
+    <string name="location_accuracy_format">Accuracy: %.2f</string>
+    <string name="location_altitude_format">Altitude: %.2f</string>
+
+    <string name="weather_temp_format">Temperature: %.1f°"</string>
+    <string name="weather_feels_format">Feels like temperature: %.1f°"</string>
+    <string name="weather_humid_format">Humidity: %d"</string>
+    <string name="weather_dew_format">Dew Point: %.1f°"</string>
+    <string name="weather_cond_format">Conditions: %s"</string>
+    
+    <string name= "weather_button"> Weather button</string>
+    <string name= "cse_content_description"> Computer Science of Engineering Building button</string>
+    <string name= "hub_content_description"> Husky Union Building button</string>
+    <string name= "kne_content_description"> Kane HALL button</string>
+    <string name= "sav_content_description"> Savery Hall button</string>
+    <string name= "fsh_content_description"> Fishery Building button</string>
+
+    <string name="update">Weather today!</string>
+    <string name="image">Image displayed here</string>
+</resources>
